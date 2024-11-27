@@ -36,11 +36,7 @@ const fetchPages = async () => {
 
 //查询链接
 const urls = [
-    "http://62.146.181.34:8080/status",
-    "http://144.126.136.101:8080/status",
-    "http://194.238.25.127:8080/status",
-    "http://194.238.25.118:8080/status",
-    "http://194.238.25.51:8080/status",
+    "http://IP:8080/status",
 ]
 
 //需要过滤的Node Information行
